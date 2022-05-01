@@ -1,8 +1,6 @@
-const port = process.env.PORT;
-console.log(process.env); 
-const io = require("socket.io")(port, {
+const io = require("socket.io")(8900, {
     cors: {
-      origin: "*",
+      origin: "http://localhost:3000",
     },
 });
 
