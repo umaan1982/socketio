@@ -16,7 +16,7 @@ Socket.IO is an event-driven library designed for real-time web applications, al
 
 ## Contact
 
-For any inquiries or questions, please contact [your-email@example.com](mailto:your-email@example.com).
+For any inquiries or questions, please contact [your-email@example.com](mailto:umaan1982@gmail.com).
 
 ---
 
